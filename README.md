@@ -18,9 +18,11 @@ After Installing Python:
 - pipwin install pyaudio
 
 *COPY AND PASTE EACH COMMAND UP THERE!!*
+
 *Make Sure You Configure config.py*
+
 When you're done doing that you can run command prompt and direct it to the directory of were the files are and run the script with *py main.py*
-If any problems please feel free to open a ISSUE or email me at **rahoom.ajeena@gmail.com** 
+If any problems please feel free to open a ISSUE or email me at **sand@beapdev.net** 
 
 *Beta v0.1.25*
 
